@@ -69,8 +69,7 @@
 
 <section>
     <h2>Contact</h2>
-    <p>Email: yourmail@example.com</p>
-    <p>GitHub: https://github.com/yourusername</p>
+    <p>Email: anbumathi7731@gmail.com</p>
 </section>
 
 <footer>
